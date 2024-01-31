@@ -1,0 +1,13 @@
+Delete and recreate jobly db?
+Return for yes or control-C to cancel > DROP DATABASE
+CREATE DATABASE
+You are now connected to database "jobly" as user "coding".
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+INSERT 0 2
+INSERT 0 50
+INSERT 0 200
+Delete and recreate jobly_test db?
+Return for yes or control-C to cancel > 
